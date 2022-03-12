@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity1</string>
+
+    <string-array name="eboards">
+        <item>AESCOM</item>
+        <item>BESCOM</item>
+        <item>CESCOM</item>
+        <item>DESCOM</item>
+        <item>EESCOM</item>
+        <item>FESCOM</item>
+        <item>GESCOM</item>
+        <item>HESCOM</item>
+    </string-array>
+</resources>

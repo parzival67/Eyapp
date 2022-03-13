@@ -42,6 +42,7 @@
             >
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card1"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -75,6 +76,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card2"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -108,6 +110,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card3"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -141,6 +144,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card4"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -174,6 +178,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card5"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -207,6 +212,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card6"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -240,6 +246,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card7"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -273,6 +280,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card8"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -306,6 +314,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card9"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -339,6 +348,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card10"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -372,6 +382,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card11"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -405,6 +416,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card12"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -438,6 +450,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card13"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -471,6 +484,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card14"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -504,6 +518,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card15"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -537,6 +552,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card16"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -570,6 +586,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card17"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -603,6 +620,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card18"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -636,6 +654,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card19"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -669,6 +688,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card20"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -702,6 +722,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card21"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -735,6 +756,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card22"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -768,6 +790,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card23"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
@@ -801,6 +824,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/card24"
                 android:layout_width="50dp"
                 android:layout_height="0dp"
                 android:layout_columnWeight="1"
